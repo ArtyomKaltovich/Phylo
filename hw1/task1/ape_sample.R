@@ -1,9 +1,7 @@
 library(xml2)
 # might need root preveligies
-#for (package in c("ape", "ggtree"))
-#    if (!package %in% installed.packages()) install.packages(package)
+if (!"ape" %in% installed.packages()) install.packages("ape")
 library(ape)
-library(ggtree)
 
 DATA_URL = "https://www.jasondavies.com/tree-of-life/life.txt"
 
