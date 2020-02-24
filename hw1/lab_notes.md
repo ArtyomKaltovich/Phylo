@@ -4,6 +4,7 @@
         - converting data newick in data/data.txt phyloxml in data/data.phyloxml
         - creating requirements file - requirements.txt
     - creating python script for ete - ete.py
-        - the script read file created by task2/main.py script
+        - the script read file created by task2/main.py script or download it
+            if it is not presented
         - putting plot to plot/tree.pdf
     
