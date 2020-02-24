@@ -7,4 +7,5 @@
         - the script read file created by task2/main.py script or download it
             if it is not presented
         - putting plot to plot/tree.pdf
-    
+    - creating R scripts - task1/
+        - put the plot of R scripts to task1/plot/
