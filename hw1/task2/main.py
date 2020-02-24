@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 from Bio import Phylo
 
 DATA_URL = r"https://www.jasondavies.com/tree-of-life/life.txt"
-INPUT_FILE_NAME = "data.txt"
-OUT_FILE_NAME = "data.phyloxml"
+INPUT_FILE_NAME = "data/data.txt"
+OUT_FILE_NAME = "data/data.phyloxml"
 
 
 def save_data_to_file(data_url, file_name):
@@ -25,6 +25,6 @@ if __name__ == '__main__':
         tree.ladderize()
         Phylo.draw_ascii(tree)
         Phylo.draw(tree, do_show=False, axes=axes)
-        fig.savefig("tree.svg")
-        fig.savefig("tree.png")
+        fig.savefig("plot/tree.svg")
+        fig.savefig("plot/tree.png")
     Phylo.convert(INPUT_FILE_NAME, "newick", OUT_FILE_NAME, "phyloxml")
