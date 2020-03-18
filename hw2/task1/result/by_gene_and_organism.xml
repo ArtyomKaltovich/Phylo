@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSearchResult PUBLIC "-//NLM//DTD esearch 20060628//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20060628/esearch.dtd">
+<eSearchResult><Count>2</Count><RetMax>2</RetMax><RetStart>0</RetStart><IdList>
+<Id>NC_009168.3</Id>
+<Id>XM_023629239.1</Id>
+</IdList><TranslationSet><Translation>     <From>horse[Organism]</From>     <To>"Equus caballus"[Organism]</To>    </Translation></TranslationSet><TranslationStack>   <TermSet>    <Term>ABO[Gene Name]</Term>    <Field>Gene Name</Field>    <Count>1302</Count>    <Explode>N</Explode>   </TermSet>   <TermSet>    <Term>"Equus caballus"[Organism]</Term>    <Field>Organism</Field>    <Count>534849</Count>    <Explode>Y</Explode>   </TermSet>   <OP>AND</OP>  </TranslationStack><QueryTranslation>ABO[Gene Name] AND "Equus caballus"[Organism]</QueryTranslation></eSearchResult>
