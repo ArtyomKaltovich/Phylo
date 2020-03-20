@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1272" height="692" name="RHD_nj.svg" y="0" viewBox="0 0 1272 692">
+<polyline points="1272,692 0,692 0,0 1272,0 1272,692" fill="white" />
+<text x="288" y="57" fill="#000000" font-size="15" font-family="default" > gi|301129227|ref|NP_065231.3|_blood_group_Rh(CE)_polypeptide_isoform_1_Homo_sapiens</text>
+<polyline points="245,86 245,53 286,53" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="288" y="124" fill="#000000" font-size="15" font-family="default" > gi|20336225|ref|NP_057208.2|_blood_group_Rh(D)_polypeptide_isoform_1_Homo_sapiens</text>
+<polyline points="245,87 245,120 286,120" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="204,136 204,86 245,86" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="288" y="191" fill="#000000" font-size="15" font-family="default" > gi|193211410|ref|NP_001123215.1|_RH-like_protein_IA_Pan_troglodytes</text>
+<polyline points="204,137 204,187 286,187" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="163,195 163,136 204,136" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="288" y="258" fill="#000000" font-size="15" font-family="default" > gi|94400872|ref|NP_001028136.3|_RH-like_protein_Macaca_mulatta</text>
+<polyline points="163,196 163,254 286,254" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="122,258 122,195 163,195" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="288" y="325" fill="#000000" font-size="15" font-family="default" > gi|114158620|ref|NP_001041501.1|_blood_group_Rh(CE)_polypeptide_Canis_lupus_familiaris</text>
+<polyline points="122,259 122,321 286,321" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="288" y="392" fill="#000000" font-size="15" font-family="default" > gi|28395043|ref|NP_777137.1|_rhesus-like_protein_Bos_taurus</text>
+<polyline points="122,292 122,388 286,388" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<line x1="122" y1="196" x2="122" y2="293" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="81,389 81,291 122,291" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="288" y="459" fill="#000000" font-size="15" font-family="default" > gi|227116310|ref|NP_035400.3|_blood_group_Rh(D)_polypeptide_Mus_musculus</text>
+<polyline points="245,488 245,455 286,455" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="288" y="526" fill="#000000" font-size="15" font-family="default" > gi|11968076|ref|NP_071950.1|_blood_group_Rh(D)_polypeptide_Rattus_norvegicus</text>
+<polyline points="245,489 245,522 286,522" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="81,390 81,488 245,488" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="40,505 40,389 81,389" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="288" y="593" fill="#000000" font-size="15" font-family="default" > gi|45383231|ref|NP_989798.1|_blood_group_Rh(CE)_polypeptide_Gallus_gallus</text>
+<polyline points="245,622 245,589 286,589" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="288" y="660" fill="#000000" font-size="15" font-family="default" > gi|301614317|ref|XP_002936645.1|_PREDICTED:_LOW_QUALITY_PROTEIN:_Rh_blood_group_D_antigen_Xenopus_(Silurana)_tropicalis</text>
+<polyline points="245,623 245,656 286,656" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="40,506 40,622 245,622" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="221" y="639" fill="#303030" font-size="11" font-family="MS Sans Serif" >100</text>
+<text x="221" y="505" fill="#303030" font-size="11" font-family="MS Sans Serif" >100</text>
+<text x="227" y="80" fill="#303030" font-size="11" font-family="MS Sans Serif" >73</text>
+<text x="180" y="130" fill="#303030" font-size="11" font-family="MS Sans Serif" >100</text>
+<text x="139" y="189" fill="#303030" font-size="11" font-family="MS Sans Serif" >100</text>
+<text x="104" y="285" fill="#303030" font-size="11" font-family="MS Sans Serif" >82</text>
+</svg>
